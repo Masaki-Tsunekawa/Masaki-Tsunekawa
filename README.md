@@ -24,7 +24,7 @@ I'm Masaki, Fullstack developer with 2+ years of professional experience.
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-My portfolio is available(under way) [here](portfolio-ep582m4rl-masaki-tsunekawas-projects.vercel.app/products/index).
+My portfolio is available(under way) ![here](portfolio-ep582m4rl-masaki-tsunekawas-projects.vercel.app/products/index).
 
 ## My Side Projects
 
